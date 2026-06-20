@@ -31,7 +31,6 @@ Before you begin, make sure you have the following installed:
    ```
 
 4. Open the `.env` file and add your MySQL configuration:
-
    ```
    MYSQL_HOST=mysql
    MYSQL_USER=your_username
@@ -116,7 +115,7 @@ docker run -d \
 
 ```
 
-## Notes
+## Note
 
 - Make sure to replace placeholders (e.g., `your_username`, `your_password`, `your_database`) with your actual MySQL configuration.
 
